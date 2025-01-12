@@ -249,6 +249,7 @@ Runners on Third: 0
 Predicted Pitch Type: Fastball
 
 ![image](https://github.com/user-attachments/assets/0ccf39b4-7e23-4323-96d5-bdba9f9846f2)
+
 As seen a foul ball is the most likely outcome in this situation.
 
 
